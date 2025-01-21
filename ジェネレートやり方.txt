@@ -1,0 +1,2 @@
+1.javac C:\Users\81704\github-classroom\cit-compiler\lox09-yuuya0625\codes\tool\GenerateAst.java
+2.java C:\Users\81704\github-classroom\cit-compiler\lox09-yuuya0625\codes\tool\GenerateAst.java  C:\Users\81704\github-classroom\cit-compiler\lox01-yuuya0625\codes\com\craftinginterpreters\lox
